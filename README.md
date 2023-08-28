@@ -2,7 +2,7 @@
 - 👀 I’m interested in ecology and wildlife!
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on new projects - especially pertaining to photogrammetry
-- 📫 How to reach me lnicholson@ufl.edu
+- 📫 How to reach me lpn23@nau.edu
 
 <!---
 lnicholson14/lnicholson14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
